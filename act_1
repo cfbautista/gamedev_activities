@@ -1,0 +1,16 @@
+Activity Proper:
+
+I. Create sphere for the sun, earth, moon
+	- sun x,y,z directions for transform should be reset to “0” and scale all areas to “1”
+	- earth position x “2” and “0” for y and z directions with scale of “0.5” for all three directions
+	-  moon scale of “0.1” in all three directions and position its x “2” and “0” for y and z directions
+	-  camera position on its z is “-3” and the rest is 0
+	-  Save the Scene as YourName_ GameDevProject and store in a folder name “PrelimProject”
+	- make the moon as the child-> of the earth
+	-  
+
+
+II. Add Behaviours
+
+	- 
+	
