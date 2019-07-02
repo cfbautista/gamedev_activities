@@ -12,5 +12,29 @@ I. Create sphere for the sun, earth, moon
 
 II. Add Behaviours
 
-	- 
+	-  Import all three assets folders in the Project Tab Workspace
+	-  Open the Script folder and add the RotateAround script on the sun, earth and moon
+	-  Customise the RotateAround Script behaviour in the “Inspector” Tab
+		- Click on the small rounded “circle” on the Target label and select “sun”
+		- Give a speed of 5 for the sun rotations
+		- Test the script by selecting the sun object in the “Scene” mode and Play the scene.
+		- Do these with other two objects
 	
+	- To rotate the earth around the sun modify the Inspector Value of Rotate Around Script by
+	   dragging the “same” script on the Add Component workspace and select target for object
+	   that it will be rotating for. (eg. earth ->rotating-> sun).
+
+
+
+III. Use of Material for Sphere Objects
+
+	-  On the Project Folder click on the “Textures” Folder and drag desired texture material
+	   on the Herierchy Tab.
+
+	- Do these to the other two objects remaining.
+
+	
+
+
+
+https://raw.githubusercontent.com/cfbautista/gamedev_activities/master/act_1
