@@ -32,7 +32,11 @@ III. Use of Material for Sphere Objects
 	   on the Herierchy Tab.
 
 	- Do these to the other two objects remaining.
+	- Delete the Directional Light using command + delete key
+	- Modify the Material for sun by changing the Neptune image to Emmission Color
 
+
+End of partial Project
 	
 
 
