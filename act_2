@@ -1,0 +1,29 @@
+PROJECT 1 - Objective (Applying Lights and Sound).
+
+1. Apply lights on the sun
+	- Window->Lights->Color
+
+	- Create Game Object->Lights->Point Light->change its_name to Sunlight
+	- Assign Sunlight as ->child of ->Sub object
+	- Change Range (Diameter) of light to your desired value.
+	- Apply Draw Halo by ticking the check box
+
+
+2. Applying the Sounds
+	- Click on the “Camera” and check on the Audio Listener on the Inspector Tab
+	-  Open the Sound folder on the project assets and select burning audio and drag it to the sun
+		object.
+
+	-  To continually play the audio on the object tick the “loop” on its checkbox
+	-  decrease the sound into 0.5
+	-   Add similar attribute on the earth object, click on the earth object and under the Components	    menu select Audio-> Add Source to enable it on Inspector tab.
+	-  On the audio file select dronehum on the assets
+
+	
+—————Ends of Second Session ———— QUIZ =)
+
+Join the Class in the Edmodo using the code: 94ktmu
+
+https://new.edmodo.com/
+
+Use a gmail account to register.
