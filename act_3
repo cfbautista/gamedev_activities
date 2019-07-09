@@ -1,0 +1,40 @@
+Objective: Workikng Camera, Build & Deploy, Testing WebGL
+
+1. Create a new camera GameObject->Camera
+2. Select the Main Camera and align it as it selected by
+   Game Object-> Align View to Selected
+
+
+3. Select the new camera and this time "Align it with View"
+   this is to focus on the planets and sund game view
+
+4. Name the new camera as mini_mapCamera
+5. Change the new camera projection to Orthographic in the Inspector View
+6. Change the value of the Viewport for both height and width to "0.30" on the Inspector View
+7. Under Clear Flags change its background to solid colors.
+8. To make the more interactive, will apply the other remaining two scripts on the cameras
+
+9. Apply the LootAtTarget script to the Main Camera
+10 Apply the ChangeLookAtTarget to the other Planets for click Event
+
+
+Build and Deploy
+
+11. Make sure to save the project scenes
+12. Under th File Menu click on the Build Settings
+13. Click on the Player Settings and rename the following Company Name,Product Name,
+ you can as well add some splash image at etc.
+
+14. After you customize the details click on Build
+15. Navigate in you Project Folder and create new folder name Build, inside
+ of the Build folder create a new folder name macos and Save it as SolarSystem_PrelimProject
+16. Test and Open the build project on macos
+17. Build and Test in WebGL
+	* Do the same Procedure but need to Switch Platforms
+	* customize the player settings
+		- Under resolution and presentation select-> Minimal as template
+    - then build and save on build folder and name webgl folder as its parent folder structure
+	
+ 
+ 
+ -----------------Quiz 2 is now available at your Edmodo Group Class-------
